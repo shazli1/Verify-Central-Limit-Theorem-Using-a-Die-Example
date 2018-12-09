@@ -1,0 +1,4 @@
+Mean of 2 Dice = 3.509
+Variance of 2 Dice = 1.4699190000000002
+Mean of 10 Dice = 3.514
+Variance of 10 Dice = 0.27464399999999994
